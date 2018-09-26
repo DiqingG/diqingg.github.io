@@ -1,6 +1,10 @@
 $(document).ready(function() {
   $('a.blog-button').click(function() {
     // If already in blog, return early without animate overlay panel again.
+    $('.navigation-wrapper').removeClass('visible animated bounceInDown');
+    $('.btn-mobile-menu__icon')
+      .removeClass()
+      .addClass('fa fa-list btn-mobile-menu__icon');
     if (location.hash && location.hash == '#blog') return;
     if ($('.panel-cover').hasClass('panel-cover--collapsed')) return;
     $('.main-post-list').removeClass('hidden');

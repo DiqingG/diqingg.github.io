@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "category": "Javascript",
+    "videos": [
+      {
+        "id": 1,
+        "title": "Jake Archibald: In The Loop - JSConf.Asia 2018",
+        "url": "https://www.youtube.com/watch?v=cCOL7MC4Pl0"
+      },
+      {
+        "id": 2,
+        "title": "Pete Hunt: React: Rethinking best practices — JSConf EU 2013",
+        "url": "https://youtu.be/x7cQ3mrcKaY"
+      },
+      {
+        "id": 3,
+        "title": "JavaScript Engines: The Good Parts™ - Mathias Bynens & Benedikt Meurer - JSConf EU 2018",
+        "url": "https://www.youtube.com/watch?v=5nmpokoRaZI"
+      },
+      {
+        "id": 4,
+        "title": "Super VanJS 2013: Steven Luscher - Developing User Interfaces With Facebook’s React",
+        "url": "https://youtu.be/1OeXsL5mr4g"
+      },
+      {
+        "id": 5,
+        "title": "10 Things I Regret About Node.js - Ryan Dahl",
+        "url": "https://www.youtube.com/watch?v=M3BM9TB-8yA&vl=en"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "category": "Software Architecture",
+    "videos": [
+      {
+        "id": 1,
+        "title": "Mastering Chaos - A Netflix Guide to Microservices",
+        "url": "https://www.youtube.com/watch?v=CZ3wIuvmHeM"
+      },
+      {
+        "id": 2,
+        "title": "Event Sourcing - Greg Young - DPC2016",
+        "url": "https://www.youtube.com/watch?v=I3uH3iiiDqY"
+      },
+      {
+        "id": 3,
+        "title": "Lecture 9 Scalability Harvard Web Development - David Malan - CS75 (Summer 2012)",
+        "url": "https://youtu.be/-W9F__D3oY4"
+      },
+      {
+        "id": 4,
+        "title": "Microservices + Events + Docker = A Perfect Trio",
+        "url": "https://www.youtube.com/watch?v=sSm2dRarhPo"
+      },
+      {
+        "id": 5,
+        "title": "The Many Meanings of Event-Driven Architecture - Martin Fowler",
+        "url": "https://www.youtube.com/watch?v=STKCRSUsyP0"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "category": "Data System",
+    "videos": [
+      {
+        "id": 1,
+        "title": "The Paxos Algorithm",
+        "url": "https://youtu.be/d7nAGI_NZPk"
+      },
+      {
+        "id": 2,
+        "title": "Deconstructing REST Security by David Blevins",
+        "url": "https://www.youtube.com/watch?v=9CJ_BAeOmW0"
+      },
+      {
+        "id": 3,
+        "title": "Understanding HDFS using Legos",
+        "url": "https://youtu.be/4Gfl0WuONMY"
+      },
+      {
+        "id": 4,
+        "title": "Introduction to Apache Kafka by James Ward",
+        "url": "https://www.youtube.com/watch?v=UEg40Te8pnE"
+      }
+    ]
+  }
+]

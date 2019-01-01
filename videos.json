@@ -58,6 +58,11 @@
         "id": 5,
         "title": "The Many Meanings of Event-Driven Architecture - Martin Fowler",
         "url": "https://www.youtube.com/watch?v=STKCRSUsyP0"
+      },
+      {
+        "id": 6,
+        "title": "A Whirlwind Overview of Apache Beam - Eugene Kirpichov",
+        "url": "https://youtu.be/buXqe0YQjMY"
       }
     ]
   },

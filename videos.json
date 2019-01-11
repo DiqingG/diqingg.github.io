@@ -58,6 +58,11 @@
         "id": 5,
         "title": "Architect’s Guide to Security Design Principles - Eoin Woods",
         "url": "https://youtu.be/4qN3JBGd1g8"
+      },
+      {
+        "id": 6,
+        "title": "Deconstructing REST Security by David Blevins",
+        "url": "https://www.youtube.com/watch?v=9CJ_BAeOmW0"
       }
     ]
   },
@@ -72,8 +77,8 @@
       },
       {
         "id": 2,
-        "title": "Deconstructing REST Security by David Blevins",
-        "url": "https://www.youtube.com/watch?v=9CJ_BAeOmW0"
+        "title": "Elasticsearch Architecture",
+        "url": "https://www.youtube.com/watch?v=YsYUgZu9-Y4"
       },
       {
         "id": 3,

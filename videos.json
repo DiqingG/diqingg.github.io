@@ -82,13 +82,13 @@
       },
       {
         "id": 4,
-        "title": "Introduction to Apache Kafka by James Ward",
-        "url": "https://www.youtube.com/watch?v=UEg40Te8pnE"
+        "title": "A Whirlwind Overview of Apache Beam - Eugene Kirpichov",
+        "url": "https://youtu.be/buXqe0YQjMY"
       },
       {
         "id": 5,
-        "title": "A Whirlwind Overview of Apache Beam - Eugene Kirpichov",
-        "url": "https://youtu.be/buXqe0YQjMY"
+        "title": "Introduction to Apache Kafka by James Ward",
+        "url": "https://www.youtube.com/watch?v=UEg40Te8pnE"
       }
     ]
   }

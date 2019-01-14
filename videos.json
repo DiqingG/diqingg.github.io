@@ -63,6 +63,11 @@
         "id": 6,
         "title": "Deconstructing REST Security by David Blevins",
         "url": "https://www.youtube.com/watch?v=9CJ_BAeOmW0"
+      },
+      {
+        "id": 7,
+        "title": "How We've Scaled Dropbox - Kevin Modzelewski",
+        "url": "https://youtu.be/PE4gwstWhmc"
       }
     ]
   },

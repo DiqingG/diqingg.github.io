@@ -32,7 +32,7 @@
   },
   {
     "id": 2,
-    "category": "Software Architecture",
+    "category": "System Architecture",
     "videos": [
       {
         "id": 1,
@@ -63,6 +63,11 @@
         "id": 6,
         "title": "How We've Scaled Dropbox - Kevin Modzelewski",
         "url": "https://youtu.be/PE4gwstWhmc"
+      },
+      {
+        "id": 7,
+        "title": "Scaling Instagram Infrastructure - Lisa Guo",
+        "url": "https://youtu.be/hnpzNAPiC0E"
       }
     ]
   },
@@ -99,7 +104,7 @@
   },
   {
     "id": 4,
-    "category":"Security",
+    "category":"Other",
     "videos":[
       {
         "id": 1,
